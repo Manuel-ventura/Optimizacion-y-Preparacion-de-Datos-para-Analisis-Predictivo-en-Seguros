@@ -1,7 +1,3 @@
-Sure, here's the README for the project, first in Spanish and then in English:
-
----
-
 # Preprocesamiento de Datos para Análisis Predictivo en Seguros
 
 ## Visión General del Proyecto
